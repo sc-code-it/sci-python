@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./common"
+    ],
+    "python.formatting.provider": "black"
+}
